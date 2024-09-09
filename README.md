@@ -1,4 +1,4 @@
-<h1>Urban Jungle Landing Page</h1>
+<h1>PRODIGY_D_01</h1>
 <p>This repository contains the HTML, CSS, and JavaScript files for the landing page of Urban Jungle, an online nursery that aims to bring greenery into urban living spaces.</p>
 
 <h1>Technologies Used</h1>
